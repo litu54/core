@@ -4,6 +4,8 @@ metadata:
   name: nginxapp
   labels:
     env:dev
+    
+    
 spec:
 ---
 apiVersion: v1
